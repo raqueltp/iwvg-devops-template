@@ -62,3 +62,4 @@ jobs:
           && echo "✅ Deployment succeeded" \
           || (echo "❌ Deployment failed" && exit 1)
           
+          
